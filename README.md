@@ -3,8 +3,7 @@
  <h1> Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prathna Pandit</h1>
  
  
-I am a Self driven and motivated Engineering student adept at developing software products and
-implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
+I am a Self driven and motivated Engineering student looking at working and learning new things. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
 
 Currently I am Working as a Full Stack Engineer at [BigBuddy](https://www.bigbuddy.in/)
 
