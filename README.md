@@ -6,7 +6,7 @@
 I am a Self driven and motivated Engineering student adept at developing software products and
 implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
 
-Currently I am Working as a Full Stack Engineer at [Getboarded](https://videowiki.pt/)
+Currently I am Working as a Full Stack Engineer at [BigBuddy](https://www.bigbuddy.in/)
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2>Languages</h2>
